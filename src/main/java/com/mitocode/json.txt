@@ -1,0 +1,13 @@
+{
+    "fecha" : "2021-11-30T11:38:00.000Z",
+	"persona" : {
+		"idPersona" : 1
+	},
+    "importe": 61,
+	"detalleVenta" : [
+		{ "producto": {  "idProducto": 1 }, "cantidad" : 5},	
+		{ "producto": {  "idProducto": 4 }, "cantidad" : 4},
+        	{ "producto": {  "idProducto": 6 }, "cantidad" : 2},
+        	{ "producto": {  "idProducto": 2 }, "cantidad" : 2}
+	]
+}
